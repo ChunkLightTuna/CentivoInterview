@@ -1,0 +1,2 @@
+A simple Express API with MongoDB integration. Can optionally be used with an `.env` file for port and database uri, otherwise picks sane development defaults.
+Users whose age is greater than 21 are accessible from `/users/:id`
